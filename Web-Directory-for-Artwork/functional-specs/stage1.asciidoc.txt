@@ -1,0 +1,55 @@
+Artdir Stage 1 - Functional Specification
+=========================================
+
+Introduction
+------------
+
+This is a functional spec for a web-based artwork directory 
+(possibly called freshfic, artdir etc.), which will allow for categorising,
+browsing and searching for artworks available on the web, as well as for
+announcing new releases of them and progress.
+
+This spec uses a theme based on the movie
+http://en.wikipedia.org/wiki/Spaceballs[Spaceballs].
+
+Categorizing an artwork
+-----------------------
+
+Yogurt, the old wiseman, has decided to expand his merchandising empire to
+web fiction. As such, he is going to make his bestselling book 
+"Spaceballs - The Illustrated Children's Book" available for purchase on his 
+web-site, under the CC-by-nc-sa.
+
+In order to gain recognition, Yogurt goes to http://freshfic.tld/ and
+registers using either of:
+
+1. The standard registration process of filling in a username, E-mail and 
+password twice, getting the confirmation E-mail, and filling the details.
+
+2. Using OpenID.
+
+3. Maybe some other methods in the future.
+
+After Yogurt registered and confirmed his E-mail, he submits a new entry 
+filling in:
+
+1. The name - "Spaceballs - The Illustrated Children's Book".
+
+2. Categories:
+** Fiction → Prose → Children's Books → Illustrated Children's Books
+** Genre: Science Fiction ; Comedy ; Parody
+** Language: English
+** License: CC-by-nc-sa
+
+3. URL: http://www.yogurt.tld/merchandise/Space-Ballls/Illustrated-Book/
+
+4. Summary:
+
+----------------------------------------------------------
+Teach your kid all they want to know about Spaceballs and how to make the
+real money from merchandising! Follow the tale of Yogi and Urtbot as they
+travel through space, time and some other dimensions to learn all about the
+power of the Schwartz (which you must never underestimate).
+----------------------------------------------------------
+
+
