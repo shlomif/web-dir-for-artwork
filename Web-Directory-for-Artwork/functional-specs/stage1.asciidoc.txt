@@ -34,22 +34,45 @@ After Yogurt registered and confirmed his E-mail, he submits a new entry
 filling in:
 
 1. The name - "Spaceballs - The Illustrated Children's Book".
-
++
 2. Categories:
 ** Fiction → Prose → Children's Books → Illustrated Children's Books
 ** Genre: Science Fiction ; Comedy ; Parody
 ** Language: English
 ** License: CC-by-nc-sa
-
++
 3. URL: http://www.yogurt.tld/merchandise/Space-Ballls/Illustrated-Book/
-
++
 4. Summary:
-
++
 ----------------------------------------------------------
 Teach your kid all they want to know about Spaceballs and how to make the
 real money from merchandising! Follow the tale of Yogi and Urtbot as they
 travel through space, time and some other dimensions to learn all about the
 power of the Schwartz (which you must never underestimate).
 ----------------------------------------------------------
++
+5. Excerpt:
++
+----------------------------------------------------------
+"Never underestimate the power of the Schwartz" said Yogi as he lifted the
+huge statue of Yogurt off the ground until it landed on the Mog's foot."
+----------------------------------------------------------
++
+6. Available formats:
+6.1. PDF
+6.2. Paperform.
+6.3 OpenOffice.org
++
+7. *TODO*: FILL IN.
 
+Announcing a Release
+~~~~~~~~~~~~~~~~~~~~
 
+Yogurt also announces a release, by filling the form:
+
+1. Release name: "Version 0.2.0"
++
+2. Changes: "First public release".
++
+3. Release date: Now.
