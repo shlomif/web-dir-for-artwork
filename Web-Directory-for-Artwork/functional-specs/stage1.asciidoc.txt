@@ -102,3 +102,20 @@ And naturally:
 
 Since Yogurt's work piques his interests the most, he goes to check it out
 and read it.
+
+Commenting
+~~~~~~~~~~
+
+Lone Starr has some critique of Yogurt's work, so he heads over to the work's
+page and submits a comment (after having logged in, naturally):
+
+----------------------------------------------------------
+Yogurt's work will rank among the classical works of Children's literature
+as a cutting edge work of post-modern introspection into the deepness of the
+living of the modern man in modern reality, in the Western World 
+neo-civilisation of … something.
+
+To sum up - I think it rocks. "May the Schwartz be with you".
+----------------------------------------------------------
+
+He also rates the work with 9/10, previews the comments and submits it.
