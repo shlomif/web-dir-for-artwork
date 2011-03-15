@@ -12,8 +12,8 @@ announcing new releases of them and progress.
 This spec uses a theme based on the movie
 http://en.wikipedia.org/wiki/Spaceballs[Spaceballs].
 
-Categorizing an artwork
------------------------
+New Submission
+--------------
 
 Yogurt, the old wiseman, has decided to expand his merchandising empire to
 web fiction. As such, he is going to make his bestselling book 
@@ -76,3 +76,29 @@ Yogurt also announces a release, by filling the form:
 2. Changes: "First public release".
 +
 3. Release date: Now.
+
+Editor acceptance
+~~~~~~~~~~~~~~~~~
+
+An editor reviews Yogurt's submission for correctness and after verifying that
+it is available in the right URL and it looks like original artwork, it is
+accepted into the directory.
+
+Public view
+-----------
+
+Lone Starr is taking a break from his job as a space rogue, and decides to
+see what's new in the world of Public cultural works. He heads to  
+http://freshfic.tld/ and views the front page where he sees many interesting
+submissions with releases:
+
+* Songs of Druidia - a collection of King Roland's favourite songs.
+* How to avoid air pollution - by President Skroob.
+* The Druish Princess Way-of-Life - by Princess Vespa.
+
+And naturally:
+
+*  "Spaceballs - The Illustrated Children's Book" - by Yogurt.
+
+Since Yogurt's work piques his interests the most, he goes to check it out
+and read it.
