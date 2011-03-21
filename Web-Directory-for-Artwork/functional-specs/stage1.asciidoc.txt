@@ -119,3 +119,22 @@ To sum up - I think it rocks. "May the Schwartz be with you".
 ----------------------------------------------------------
 
 He also rates the work with 9/10, previews the comment and submits it.
+
+Commenting on a comment
+-----------------------
+
+Naturally, Lone Starr's and Yogurt's old adversary "Dark Helmet" does not 
+approve of Lone Starr's comment to his, so he goes to http://freshfic.tld/
+, logins into an account using OpenID and replies to Lone Starr's comment:
+
+----------------------------------------------------------
+Don't listen to Lone Starr! Yogurt's book sucks. 
+
+To truly understand the Schwartz, see my feature film "Learn all about the
+downside of the Schwartz - using doll-play", which you can find here:
+
+http://freshfic.tld/works/downside-of-the-schwartz
+
+Lone Starr is so stupid, he fell for the old hand shake trick! Go Spaceballs!
+----------------------------------------------------------
+
