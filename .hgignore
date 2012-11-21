@@ -1,6 +1,12 @@
 Web-Directory-for-Artwork/functional-specs/stage1.xhtml
 Web-Directory-for-Artwork/App-WebWorksDir/MYMETA.json
 Web-Directory-for-Artwork/App-WebWorksDir/MYMETA.yml
+Web-Directory-for-Artwork/App-WebWorksDir/META.json
+Web-Directory-for-Artwork/App-WebWorksDir/META.yml
 Web-Directory-for-Artwork/App-WebWorksDir/Makefile
+Web-Directory-for-Artwork/App-WebWorksDir/MANIFEST.bak
+Web-Directory-for-Artwork/App-WebWorksDir/Build
+Web-Directory-for-Artwork/App-WebWorksDir/App-WebWorksDir-*
 Web-Directory-for-Artwork/App-WebWorksDir/blib
 Web-Directory-for-Artwork/App-WebWorksDir/pm_to_blib
+Web-Directory-for-Artwork/App-WebWorksDir/_build
