@@ -4,7 +4,7 @@ Artdir Stage 1 - Functional Specification
 Introduction
 ------------
 
-This is a functional spec for a web-based artwork directory 
+This is a functional spec for a web-based artwork directory
 (possibly called freshfic, artdir etc.), which will allow for categorising,
 browsing and searching for artworks available on the web, as well as for
 announcing new releases of them and progress.
@@ -16,21 +16,21 @@ New Submission
 --------------
 
 Yogurt, the old wiseman, has decided to expand his merchandising empire to
-web fiction. As such, he is going to make his bestselling book 
-"Spaceballs - The Illustrated Children's Book" available for purchase on his 
+web fiction. As such, he is going to make his bestselling book
+"Spaceballs - The Illustrated Children's Book" available for purchase on his
 web-site, under the CC-by-nc-sa.
 
 In order to gain recognition, Yogurt goes to http://freshfic.tld/ and
 registers using either of:
 
-1. The standard registration process of filling in a username, E-mail and 
+1. The standard registration process of filling in a username, E-mail and
 password twice, getting the confirmation E-mail, and filling the details.
 
 2. Using OpenID.
 
 3. Maybe some other methods in the future.
 
-After Yogurt registered and confirmed his E-mail, he submits a new entry 
+After Yogurt registered and confirmed his E-mail, he submits a new entry
 filling in:
 
 1. The name - "Spaceballs - The Illustrated Children's Book".
@@ -88,7 +88,7 @@ Public view
 -----------
 
 Lone Starr is taking a break from his job as a space rogue, and decides to
-see what's new in the world of Public cultural works. He heads to  
+see what's new in the world of Public cultural works. He heads to
 http://freshfic.tld/ and views the front page where he sees many interesting
 submissions with releases:
 
@@ -112,7 +112,7 @@ page and submits a comment (after having logged in, naturally):
 ----------------------------------------------------------
 Yogurt's work will rank among the classical works of Children's literature
 as a cutting edge work of post-modern introspection into the deepness of the
-living of the modern man in modern reality, in the Western World 
+living of the modern man in modern reality, in the Western World
 neo-civilisation of … something.
 
 To sum up - I think it rocks. "May the Schwartz be with you".
@@ -123,12 +123,12 @@ He also rates the work with 9/10, previews the comment and submits it.
 Commenting on a comment
 -----------------------
 
-Naturally, Lone Starr's and Yogurt's old adversary "Dark Helmet" does not 
+Naturally, Lone Starr's and Yogurt's old adversary "Dark Helmet" does not
 approve of Lone Starr's comment to his, so he goes to http://freshfic.tld/
 , logins into an account using OpenID and replies to Lone Starr's comment:
 
 ----------------------------------------------------------
-Don't listen to Lone Starr! Yogurt's book sucks. 
+Don't listen to Lone Starr! Yogurt's book sucks.
 
 To truly understand the Schwartz, see my feature film "Learn all about the
 downside of the Schwartz - using doll-play", which you can find here:
